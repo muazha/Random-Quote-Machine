@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Random-Quote-Machine/static/css/main.0bae95ea.css",
+    "main.js": "/Random-Quote-Machine/static/js/main.22f444d7.js",
+    "static/js/453.57cadf23.chunk.js": "/Random-Quote-Machine/static/js/453.57cadf23.chunk.js",
+    "static/media/fa-solid-900.woff2": "/Random-Quote-Machine/static/media/fa-solid-900.8ae0d37556ff1e685de2.woff2",
+    "static/media/fa-brands-400.woff2": "/Random-Quote-Machine/static/media/fa-brands-400.1c5c7716b05754cb4eab.woff2",
+    "static/media/fa-regular-400.woff2": "/Random-Quote-Machine/static/media/fa-regular-400.6f05ca9ab7b5345dbc07.woff2",
+    "static/media/fa-v4compatibility.woff2": "/Random-Quote-Machine/static/media/fa-v4compatibility.e4340c52a50e727c6afa.woff2",
+    "index.html": "/Random-Quote-Machine/index.html",
+    "main.0bae95ea.css.map": "/Random-Quote-Machine/static/css/main.0bae95ea.css.map",
+    "main.22f444d7.js.map": "/Random-Quote-Machine/static/js/main.22f444d7.js.map",
+    "453.57cadf23.chunk.js.map": "/Random-Quote-Machine/static/js/453.57cadf23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bae95ea.css",
+    "static/js/main.22f444d7.js"
+  ]
+}
